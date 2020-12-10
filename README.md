@@ -76,7 +76,7 @@ I am a student of front-end development migrating from the military and learning
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=MateusCabral00&&style=flat-square)  
   
 
 <br/>  
