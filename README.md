@@ -21,7 +21,7 @@ I am a student of back-end development migrating from the military and learning 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on   
+- 🔭 I’m currently working on a personal projects to develop myself better as a back-end developer
   
 
 - 🌱 I’m currently learning Python applied on the web with Django framework  
