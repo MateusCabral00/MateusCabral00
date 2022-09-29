@@ -25,10 +25,7 @@ I am a student of back-end development migrating from the military and learning 
   
 
 - 🌱 I’m currently learning Python applied on the web with Django framework  
-  
-
-- ❓ Ask me about anything related to bulding websites  
-  
+    
 
 - ⚡ Fun fact: I come from the military area  
 
