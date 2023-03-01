@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a student of back-end development migrating from the military and learning the basis for building websites. As a developer I care about efficiency and usability of the sites we consume on the internet and work to make these experiences even better.  
+I am a student of back-end development learning the basis for building websites. As a developer I care about efficiency and usability of the sites we consume on the internet and work to make these experiences even better.  
   
 
 <br/>  
@@ -25,11 +25,7 @@ I am a student of back-end development migrating from the military and learning 
   
 
 - 🌱 I’m currently learning Python applied on the web with Django framework  
-    
-
-- ⚡ Fun fact: I come from the military area  
-
-
+ 
 </td><td valign="top" width="50%">
 
 <div align="center">
